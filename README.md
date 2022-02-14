@@ -9,7 +9,7 @@
 
 Код и файловая структура оформлены по методологии БЭМ(nested)
 
-[Тут](https://devkucherov.github.io/how-to-learn/)можно посмотреть
+[Ссылка для просмотра](https://devkucherov.github.io/how-to-learn/)
 
 Верстка - Павел Кучеров  
 Дизайн - Яндекс.Практикум
